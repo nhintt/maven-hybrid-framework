@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Chrome"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.806">
+  <properties />
+  
+  
+            <testcase name="User_01_Register" time="5.585" classname="com.nopcommerce.user.Level_16_Pattern_Object" />
+                <testcase name="User_02_Dynamic_Locator" time="2.221" classname="com.nopcommerce.user.Level_16_Pattern_Object" />
+      
+</testsuite>

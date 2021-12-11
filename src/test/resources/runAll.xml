@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce">
+	<suite-files>
+		<suite-file path="runNopCommerceTestcases.xml" />
+		<suite-file path="runFacebookTestcases.xml" />
+		<suite-file path="runTechPanda.xml" />
+	</suite-files>
+</suite>

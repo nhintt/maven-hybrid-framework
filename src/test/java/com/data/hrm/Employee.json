@@ -1,0 +1,11 @@
+{
+	"firstname": "Harry",
+	"lastname": "Potter",
+	"fullname": "Harry Potter",
+	"username": "harrypotter",
+	"password": "12345678",
+	"ContactDetail": {
+		"editFirstName": "Ron",
+		"editLastName": "Weasly"
+	}
+}

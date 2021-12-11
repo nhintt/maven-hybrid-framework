@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce">
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+	</listeners>
+
+	<parameter name="url" value="https://www.facebook.com/r.php" />
+	<test name="Run on Firefox">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class
+				name="com.facebook.Level_12_Register_Verify_Assert" />
+		</classes>
+	</test>
+
+	<!-- <test name="Run on Chrome"> <parameter name="browser" value="chrome" 
+		/> <classes> <class name="com.nopcommerce.user.Level_04_Multiple_Browsers"/> 
+		</classes> </test> -->
+
+	<!-- <test name="Run on Coc Coc"> <parameter name="browser" value="coccoc" 
+		/> <classes> <class name="com.nopcommerce.user.Level_04_Multiple_Browsers"/> 
+		</classes> </test> -->
+
+</suite>
